@@ -217,7 +217,7 @@ class Chatbox {
             <div class="chatbox__content--header">
               <h4 class="chatbox__heading--header">Chat Support</h4>
               <p class="chatbox__description--header">
-                Hi. I am Scott Zeta. How can I help you?
+                Hi. I am Scott Zeta. How can I help you? (I am using Free Tier service so bot needs one minute to start up)
               </p>
             </div>
           </div>
